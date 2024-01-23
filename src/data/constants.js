@@ -257,29 +257,28 @@ export const projects = [
 
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "AI-Monitoring-and-Response-system-for-Anti-Accident-Mechanism",
+    date: "Apr 2023 - Apr 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+      "The AI Monitoring and Response System for Anti-Accident Mechanism is a revolutionary solution designed to promote safe driving practices and to prevent and encounter accidents in challenging driving conditions, etc, especially in hilly areas. The model monitors driver's activity throughout the driving and analyses the gesture patterns to foster a safe and healthy driving experience and reduce risks. The system is specifically tailored to address the unique risks and hazards associated with driving in hilly regions.The system is built on a foundation of state-of-the-art deep learning algorithms that analyze drivers' facial expressions, eye movements, head postures, and driving patterns. The system can detect signs of driver distraction, fatigue, and other unsafe behaviors that can lead to accidents.When the system detects any such signs, it sends an alert to the driver, prompting them to take corrective action or stop driving altogether. In addition, the system can also send an alert to a pre-defined emergency contact, such as a family member or the local authorities, in case of a severe emergency or accident.The AI Monitoring and Response System for Anti-Accident Mechanism in Hilly Regions is an accessible and cost-effective solution for all types of vehicles, including cars, buses, and trucks. It is particularly useful in mountainous areas, where accidents are more common due to challenging driving conditions.Overall, the AI Monitoring and Response System for Anti-Accident Mechanism, specially in Hilly Regions is a game-changer in promoting safe driving practices and preventing accidents in challenging driving conditions. It has the potential to save countless lives and prevent thousands of injuries on the road.",
+    image: "",
+    tags: ["Deep Learning", "Python", "Flask", "Pygame", "Twilio"],
+    category: "machinelearning",
+    github: "https://github.com/47-dev/AI-Monitoring-and-Response-system-for-Anti-Accident-Mechanism",
+    webapp: "",
     member: [
       {
         name: "Rajveer Singh",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        img: "https://avatars.githubusercontent.com/u/79639577?v=4",
+        linkedin: "https://www.linkedin.com/in/rajveer-singh-b037a6203/",
+        github: "https://github.com/47-dev/",
       },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+      // {
+      //   name: "Upasana Chaudhuri",
+      //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+      //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+      //   github: "https://github.com/upasana0710",
+      // },
     ],
   }
 ];
