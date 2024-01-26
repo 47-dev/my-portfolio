@@ -6,8 +6,8 @@ const Button = styled.button`
     display: none;
     width: 100%;
     padding: 10px;
-    background-color: ${({ theme }) => theme.white};
-    color: ${({ theme }) => theme.text_black};
+    background-color: #0065FF;
+    color: #0065FF;
     font-size: 14px;
     font-weight: 700;
     border: none;

@@ -5,7 +5,7 @@ const Document = styled.img`
     display: none;
     height: 70px;
     width: fit-content;
-    background-color: #000;
+    background-color: #0065FF;
     border-radius: 10px;
     &:hover{
         cursor: pointer;
